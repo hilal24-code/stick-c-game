@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="GamepadBridge.Core/GamepadBridge.Core.csproj" />
+  <Project Path="GamepadBridge.Desktop/GamepadBridge.Desktop.csproj" />
+  <Project Path="GamepadBridge.Protocol.Tests/GamepadBridge.Protocol.Tests.csproj" />
+  <Project Path="GamepadBridge.Protocol/GamepadBridge.Protocol.csproj" />
+  <Project Path="GamepadBridge.Server/GamepadBridge.Server.csproj" />
+  <Project Path="GamepadBridge.Simulator/GamepadBridge.Simulator.csproj" />
+</Solution>

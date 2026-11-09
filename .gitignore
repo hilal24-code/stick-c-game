@@ -1,0 +1,14 @@
+bin/
+obj/
+publish/
+.vs/
+*.user
+.gradle/
+build/
+.idea/
+.kotlin/
+local.properties
+captures/
+.cxx/
+*.apk
+*.aab
