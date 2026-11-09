@@ -12,3 +12,4 @@ captures/
 .cxx/
 *.apk
 *.aab
+release/
